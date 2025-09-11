@@ -58,8 +58,8 @@
 ---
 
 ### 📈 GitHub Stats
-<div align="center">
-  <img src="https://gstats.monishkrishna.com/api?username=monishkrishna2009&show_icons=true&hide_border=true&theme=radical" alt="Monish Krishna's GitHub Stats" />
+<div align="left">
+  <img src="https://gstats.monishkrishna.com/api?username=monishkrishna2009&show_icons=true&include_all_commits=true&count_private=true&theme=dark&text_color=fff" alt="Monish Krishna's GitHub Stats" />
 </div>
 
 ---
