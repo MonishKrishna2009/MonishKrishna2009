@@ -59,7 +59,7 @@
 
 ### 📈 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=monishkrishna2009&show_icons=true&hide_border=true&theme=radical" alt="Monish Krishna's GitHub Stats" />
+  <img src="https://gstats.monishkrishna.com/api?username=monishkrishna2009&show_icons=true&hide_border=true&theme=radical" alt="Monish Krishna's GitHub Stats" />
 </div>
 
 ---
