@@ -1,8 +1,8 @@
-<h1 align="center"> Hi there, I'm <a href="https://monishkrishna2009.github.io/Portfolio/">Monish Krishna</a> 👋 </h1>
+<h1 align="center"> Hi there, I'm <a href="https://monishkrishna.com">Monish Krishna</a> 👋 </h1>
 
 <div align="center">
 
-[![Website](https://img.shields.io/website?label=Monish+Website&style=for-the-badge&url=https%3A%2F%2Fgithub.com%2Fmonishkrishna2009)]([https://github.com/monishkrishna2009](https://monishkrishna2009.github.io/Portfolio/))
+[![Website](https://img.shields.io/website?label=Monish+Website&style=for-the-badge&url=https%3A%2F%2Fgithub.com%2Fmonishkrishna2009)](https://monishkrishna.com)
 [![DEV](https://img.shields.io/badge/DEV-12100E?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/monish_krishna_159)
 
 </div>
@@ -65,7 +65,7 @@
 ---
 
 ### 📫 Let's Connect!
-- 🌐 [Website](https://monishkrishna2009.github.io/Portfolio/)  
+- 🌐 [Website](https://monishkrishna.com)
 - 📧 [Mail](mailto:monishkrishna951@gmail.com)  
 
 ---
